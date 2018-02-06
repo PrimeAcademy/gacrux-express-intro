@@ -1,0 +1,24 @@
+{
+  "name": "gacrux-express-intro",
+  "version": "1.0.0",
+  "description": "An introduction to Express on Node.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/gacrux-express-intro.git"
+  },
+  "keywords": [],
+  "author": "mbmosman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimeAcademy/gacrux-express-intro/issues"
+  },
+  "homepage": "https://github.com/PrimeAcademy/gacrux-express-intro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
